@@ -14,7 +14,7 @@ O almoço normalmente é composto por 3 acompanhamentos (arroz, feijão e salada
 
 Luiziane: Programadora II, entrevistadora,  responsavel por estabelecer o contato entre o entrevistador e o entrevistado. (@luiziane-frança)
 
-Anailsa: Programadora III, auxiliar na elaboração de perguntas.(@AnailsaSantos)
+Anailsa: Programadora III, auxiliar na elaboração de perguntas.(@AnailsaStyles)
 
 Lívia: Programadora IV, componente responsável por elaborar a documentação, compor a conceituação e gerenciar a estrutura do código.(@liviabahia)
 
