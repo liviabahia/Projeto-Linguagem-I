@@ -11,7 +11,11 @@ O almoço normalmente é composto por 3 acompanhamentos (arroz, feijão e salada
 
 # Papel de cada membro da equipe:
 Ítalo: Programador I, entrevistador, elaborador de perguntas e designer grafico. (@ItaloGostoso)
+
 Luiziane: Programadora II, entrevistadora,  responsavel por estabelecer o contato entre o entrevistador e o entrevistado. (@luiziane-frança)
+
 Anailsa: Programadora III, auxiliar na elaboração de perguntas.(@AnailsaSantos)
+
 Lívia: Programadora IV, componente responsável por elaborar a documentação, compor a conceituação e gerenciar a estrutura do código.(@liviabahia)
+
 Tauany: Programadora V, componente responsável por desenvolver o documento, organizando o conceito e a praticidade do projeto. (@tauanyrodrigues)
