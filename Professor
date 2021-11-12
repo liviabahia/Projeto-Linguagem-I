@@ -1,0 +1,21 @@
+package cantina;
+
+ public class Professor extends Clientes {
+   private int matricula;
+   private String disciplina;
+   }
+   public int getMatricula() {
+     return matricula;
+   }
+   public void setMatricula(int matricula) {
+     this.matricula = matricula;
+   }
+   public int getDisciplina() {
+     return disciplina;
+  }
+  public void setDisciplina(String disciplina) {
+     this.disciplina = disciplina;
+  }
+  public void fiado() {
+    System.out.println("Transferindo valor para o crédito de" +this.nome);
+  }
