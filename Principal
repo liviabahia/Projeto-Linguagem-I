@@ -1,0 +1,22 @@
+package cantina;
+public class Principal;
+public static void main(String[] args) {
+    Aluno a1 = new Aluno();
+    a1.setNome("Marte");
+    a1.setMatricula(20100);
+    
+    Servidor s1 = new Servidor();
+    s1.setNome("Júpiter");
+    s1.setCPF(4002);
+    s1.setSetor("Coordenação");
+    
+    Professor p1 = new Professor();
+    p1.setNome("Vênus");
+    p1.setMatricula(8922);
+    p1.disciplina("acolhimento");
+    
+    System.out.println(a1.toString());   
+    System.out.println(s1.toString());   
+    System.out.println(p1.toString());    
+    
+   }
