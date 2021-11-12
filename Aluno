@@ -1,6 +1,6 @@
 package cantina;
 
- public class Aluno extends Cliente {
+ public class Aluno extends Clientes {
    private int matricula;
    private String turma;
    }
