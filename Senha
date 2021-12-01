@@ -1,0 +1,13 @@
+
+//Por Ítalo Carvalho (@ItaloGostoso)
+
+
+import java.util.Random; 
+public class Random1 { 
+public static void main(String[] args) { 
+Random gerador = new Random(); 
+for (int n = 0; n < 1; n++) {
+System.out.println("sua senha é: " + gerador.nextInt(45)); 
+}
+ } 
+   }
